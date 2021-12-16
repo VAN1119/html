@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+}
+main {
+    height: 80%;
+}
+.fullheight {
+    height: 100%;
+    background: #bbddff;
+  }
+header h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+.btn-cover {
+    position: absolute;
+    left: 5%;
+    top: 40%;
+    display: flex;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    justify-content: space-around;
+}
+.start_btn {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    width: 250px;
+    display: block;
+    line-height: 2.4em; /* 高さを中央揃え …難しい*/
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+    border: 3px solid black;
+}
+.start_btn:hover {
+    color:white;
+    background-color: black;
+}
+
+footer {
+    text-align: center;
+}
