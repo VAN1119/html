@@ -10,24 +10,30 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
-    <title>Electric Commerce</title>
+    <link rel="icon" href="../images/net_shop.png">
     <title>Electric Commerce</title>
 </head>
 <body>
     <header>
         <h1>Electric Commerce store</h1>
     </header>
-    <nav></nav>
+    <nav>
+    </nav>
     <main>
-        <h2>ユーザーログイン</h2>
-        <form method="POST" action="">
-            <div class="login">
-                <p>ID:<input type="text" name="name" value=""></p>
-                <p>PASSWORD:<input type="text" name="comment" value=""></p>
-                <input type="submit" name="submit" value="ログイン">
-            </div>
-        </form>
-        <p><a href="user_register.html">アカウント新規登録</a></p>
+        <a href="user_top.html">トップ画面</a>
+        <div class="cover">
+            <h2>ユーザーログイン</h2>
+            <form method="POST" action="">
+                <div class="login">
+                    <p><input type="text" name="id" placeholder="ID" value=""></p>
+                    <p><input type="text" name="pass" placeholder="PASSWORD" value=""></p>
+                    <input type="submit" name="submit" value="ログイン">
+                </div>
+            </form>
+            <p>-------------------------------------------</p>
+            <p>初めての方はこちら</p>
+            <p><a href="user_register.html">アカウント新規登録</a></p>
+        </div>
     </main>
     <footer>
         <small>&copy;2021 Ban</small>
