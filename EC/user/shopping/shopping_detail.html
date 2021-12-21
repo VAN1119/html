@@ -18,29 +18,38 @@
         <h1>Electric Commerce store</h1>
     </header>
     <nav>
-        <a href="../user_top.html">トップ画面</a>
         <ul class="nav">
-            <li><a href="../shopping/shopping_favorite.html">お気に入り</a></li>
-            <li><a href="../shopping/shopping_serch.html">検索窓</a></li>
+            <a href="../user_top.html">トップ画面</a>
+            <li><a href="shopping_favorite.html">お気に入り</a></li>
+            <li>
+                <form action="" method="post">
+                    <input type="search" name="search" placeholder="キーワードを入力">
+                    <input type="submit" name="submit" value="検索">
+                </form>
+            </li>
         </ul>
     </nav>
     <main>
         <div class="cover">
             <h2>商品詳細画面</h2>
-            <img src="../../images/net_shop.png" alt="表示例" width="200px">
-            <p>商品画像</p>
         </div>
         <div class="item_explain">
-            <p class="item_name">アイテム名</p>
-            <p class="item_comment">説明文説明文説明文説明文説明文説明文説明文説明文説明文</p>
+            <img class="item_img" src="../../images/net_shop.png" alt="表示例" width="200px">
+            <div class="item_word">
+                <p class="item_name">アイテム名</p>
+                <p class="item_comment">1行目説明文説明文説明文説明文説明文説明文説明文説明文説明文<br>2行目説明文説明文説明文説明文説明文説明文説明文説明文説明文<br>3行目説明文説明文説明文説明文説明文説明文説明文説明文説明文</p>
+                <p class="item_price">￥￥￥,￥￥￥円</p>
+            </div>
         </div>
-        <div class="btn">
+        <div class="buy_btn">
             <form method="POST" action="">
-                <input class="start_btn" type="number" name="count" placeholder="数量" value="">
+                <input class="start_btn buy_btn2" type="number" name="count" placeholder="数量" value="">
             </form>
-            <a class="start_btn" href="#">カートへ追加</a>
-            <a class="start_btn" href="shopping_cart.html">カートへ移動</a>
-            <a class="start_btn" href="#">お気に入りへ追加</a>
+            <a class="start_btn buy_btn2" href="#">カートへ追加</a>
+        </div>
+        <div class="buy_btn">
+            <a class="start_btn buy_btn2" href="#">お気に入りへ追加</a>
+            <a class="start_btn buy_btn2" href="shopping_cart.html">カートへ移動</a>
         </div>
     </main>
     <footer>

@@ -95,14 +95,38 @@ header h1 {
 .item_name, .item_comment {
     text-align: left;
 }
-.item_explain p{
-    text-align: center;
+.item_explain{
+    display: flex;
+    justify-content: center;
     border: #f00 solid 3px;
+}
+.item_img {
+    margin: 0 180px;
+}
+.item_name {
+    font-size: 35px;
+    margin: 15px;
+}
+.item_price {
+    font-size: 20px;
+    text-align: right;
+    margin: 10px;
+}
+.buy_btn {
+    display:flex;
+    justify-content: center;
+}
+.buy_btn2 {
+    margin: 10px 20px;
 }
 .btn a {
     margin: 0 auto;
 }
-
+.item_favorite {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
 footer {
     text-align: center;
 }

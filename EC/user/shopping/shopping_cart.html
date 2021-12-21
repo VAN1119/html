@@ -18,15 +18,33 @@
         <h1>Electric Commerce store</h1>
     </header>
     <nav>
-        <a href="../user_top.html">トップ画面</a>
         <ul class="nav">
+            <a href="../user_top.html">トップ画面</a>
             <li><a href="shopping_favorite.html">お気に入り</a></li>
-            <li><a href="shopping_serch.html">検索窓</a></li>
+            <li>
+                <form action="" method="post">
+                    <input type="search" name="search" placeholder="キーワードを入力">
+                    <input type="submit" name="submit" value="検索">
+                </form>
+            </li>
         </ul>
     </nav>
     <main>
         <div class="cover">
             <h2>カート画面</h2>
+            <div class="item_cart">
+                <div class="cart_cover">
+                    <p class="">アイテム名1 金額円</p>
+                </div>
+                <div class="cart_cover">
+                    <p class="">アイテム名2 金額円</p>
+                </div>
+                <div class="cart_cover">
+                    <p class="">アイテム名3 金額円</p>
+                </div>
+            </div>
+            <hr>
+            <p class="total_price">合計金額</p>
             <div class="btn">
                 <a class="start_btn" href="shopping_buy.html">購入</a>
             </div>
