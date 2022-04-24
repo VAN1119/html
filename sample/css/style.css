@@ -246,3 +246,30 @@ table {
 a img:hover {
     opacity: 0.8;
 }
+
+#photograph {
+    background-image: url(../images/bg-photograph.PNG);
+    background-repeat: no-repeat;
+    background-position: center top; /* 左右　上下の指定 */
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+#photograph .photograph-list li{
+    float: left;
+    list-style: none;
+    margin: 0 15px 15px 0;
+}
+
+#photograph .photograph-list li:nth-child(3n) {
+    margin-right: 0;
+}
+
+#video {
+    background-image: url(../images/bg-video.jpg);
+    background-repeat: no-repeat;
+    background-position: center top; /* 左右　上下の指定 */
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
