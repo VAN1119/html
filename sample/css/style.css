@@ -141,9 +141,9 @@ footer small {
 #about {
     background-image: url(../images/bg-about.jpg);
     background-repeat: no-repeat;
-    background-position: left center; /* 左右　上下の指定 */
+    background-position: center top; /* 左右　上下の指定 */
     background-attachment: fixed;
-    background-size: auto 100%;
+    background-size: 100% auto;
 }
 
 .main-center {
@@ -209,3 +209,40 @@ table {
     border-collapse: collapse;
 }
 
+#portfolio {
+    background-image: url(../images/bg-portfolio.jpg);
+    background-repeat: no-repeat;
+    background-position: center top; /* 左右　上下の指定 */
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+.main {
+    width: 700px;
+    margin: 0 10px;
+    float: left;
+}
+
+.sidebar {
+    width: 200px;
+    margin: 0 10px 0 30px;
+    float: right;
+    font-family: 'Bitter', serif;
+}
+
+.sidebar h2 {
+    margin-bottom: 10px;
+}
+
+.sidebar ul {
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.sidebar ul a {
+    color: #333;
+}
+
+a img:hover {
+    opacity: 0.8;
+}
