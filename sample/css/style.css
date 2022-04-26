@@ -248,7 +248,7 @@ a img:hover {
 }
 
 #photograph {
-    background-image: url(../images/bg-photograph.PNG);
+    background-image: url(../images/bg-photograph.jpg);
     background-repeat: no-repeat;
     background-position: center top; /* 左右　上下の指定 */
     background-attachment: fixed;
