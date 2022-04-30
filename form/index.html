@@ -7,6 +7,7 @@
     <title>Form部品の種類と用途</title>
 </head>
 <body>
+    <a href="index.html">フォーム一覧</a><br><a href="option.html">オプション</a><br>
     <!--テキストフィールド(シングルライン)-->
     <input type="text" name="text">
     <br>
@@ -75,11 +76,17 @@
     <!--数値(入力できる値が数値のみとなる。また対応ブラウザでは上下矢印で数値入力できるようになる)-->
     <input type="number" name="num" value="1">
     <br>
-    <!---->
+    <!--日付(入力できる値が日付の書式(YYYY-MM-DD)のみ。対応ブラウザではカレンダーが表示される)-->
+    <input type="date" name="date" value="2015-01-01">
     <br>
-    <!---->
+    <!--時刻(入力できる値が時刻の書式(00:00)のみ。対応ブラウザでは上下矢印で時刻入力できるようになる)-->
+    <input type="time" name="time" value="12:01">
     <br>
-    <!---->
+    <!--一定の範囲内の数値(対応ブラウザではスライダー形式のUIで大まかな数値を入力できるようになる)-->
+    <input type="range" name="range">
+    <br>
+    <!--色(対応ブラウザではRGBカラーパネルから色コードを選択できるようになる)-->
+    <input type="color" name="color">
     <br>
 </body>
 </html>
