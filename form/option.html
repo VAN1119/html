@@ -13,6 +13,11 @@
     <p>autocomplete属性(以前入力した内容にもとづいて自動的に入力候補を補完する機能がオートコンプリート。デフォルトではon。※form要素に設定した場合、form内の全ての入力フォームにその設定が適用される)</p>
     <input type="search" name="example" autocomplete="off">
     <p>placeholder属性(入力フォームの中に短いヒントを表示させてユーザーの入力を手助け出来る※プレースホルダーは入力をはじめると消えてしまうので、ラベルの代替えとして使うことは望ましくない)</p>
-    <input type="text" name="fullname" placeholder="山田　タロウ"> 
+    <input type="text" name="fullname" placeholder="山田　タロウ">
+    <p>required属性(入力必須項目に出来ます。空のまま送信しようとするとアラートが出て何か入力するまで送信できない※ラジオボタングループの場合、同じグループ内に一箇所でもrequired属性があればグループ全体が必須項目として機能するが混乱を避ける為にグループ内全てのラジオボタンにrequired属性を指定することが推奨されている)</p>
+    <label><input type="radio" name="agree" value="同意する" required>同意する</label>
+    <label><input type="radio" name="agree" value="同意しない" required>同意しない</label>
+    <p>min属性/max属性/step属性(数値/日付/時刻入力の際の最小値・最大値・ステップ値を指定する属性。以下の例では1以上10未満で0.5刻みの数値のみが入力できるようになる)</p>
+    <input type="number" name="num" min="1" max="10" step="0.5">
 </body>
 </html>
