@@ -8,84 +8,84 @@
 </head>
 <body>
     <a href="index.html">フォーム一覧</a><br><a href="option.html">オプション</a><br>
-    <!--テキストフィールド(シングルライン)-->
+    <p>テキストフィールド(シングルライン)</p>
     <input type="text" name="text">
     <br>
-    <!--テキストフィールド(マルチライン)-->
+    <p>テキストフィールド(マルチライン)</p>
     <textarea name="textarea">test test</textarea>
     <br>
-    <!--テキストフィールド(パスワード)-->
+    <p>テキストフィールド(パスワード)</p>
     <input type="password" name="password">
     <br>
-    <!--ラジオボタン-->
+    <p>ラジオボタン</p>
     <input type="radio" name="radio" value="1" checked>aaa
     <input type="radio" name="radio" value="2">bbb
     <br>
-    <!--チェックボックス-->
+    <p>チェックボックス</p>
     <input type="checkbox" name="check1" value="1" checked>aaa
     <input type="checkbox" name="check2" value="2">bbb
     <input type="checkbox" name="check3" value="3">ccc
     <br>
-    <!--ファイルアップロード-->
+    <p>ファイルアップロード</p>
     <input  type="file" name="file">
     <br>
-    <!--非表示フィールド(画面上には表示しない隠しデータを設置するための要素)-->
+    <p>非表示フィールド(画面上には表示しない隠しデータを設置するための要素)</p>
     <input type="hidden" name="hidden" value="1">
     <br>
-    <!--送信ボタン-->
+    <p>送信ボタン</p>
     <input type="submit" value="送信">
     <br>
-    <!--リセットボタン-->
+    <p>リセットボタン</p>
     <input type="reset" value="リセット">
     <br>
-    <!--汎用ボタン(送信/リセットなどの特別な機能を持たない汎用ボタン。機能を持たせる場合にはJavaScriptを使ってコントロールする)-->
+    <p>汎用ボタン(送信/リセットなどの特別な機能を持たない汎用ボタン。機能を持たせる場合にはJavaScriptを使ってコントロールする)</p>
     <input type="button" value="ボタン">
     <br>
-    <!--画像ボタン(任意画像をボタンとして使用できます。機能的にはtype="submit"と同じ)-->
+    <p>画像ボタン(任意画像をボタンとして使用できます。機能的にはtype="submit"と同じ)</p>
     <input type="image" src="img/button.png" alt="送信">
     <br>
-    <!--セレクトメニュー(単一選択)-->
+    <p>セレクトメニュー(単一選択)</p>
     <select name="select">
         <option value="1">メニュー1</option>
         <option value="2" selected>メニュー2</option>
         <option value="3">メニュー3</option>
     </select>
     <br>
-    <!--セレクトメニュー(複数選択)-->
+    <p>セレクトメニュー(複数選択)</p>
     <select name="select" multiple>
         <option value="1">メニュー1</option>
         <option value="2" selected>メニュー2</option>
         <option value="3" selected>メニュー3</option>
     </select>
     <br>
-    <!--ラベル(for属性に対象となるフォーム部品のid属性値を指定すると、ラベルテキストが対象のフォーム部品に関連付けされラベルクリックでフォームが選択できるようになります)-->
+    <p>ラベル(for属性に対象となるフォーム部品のid属性値を指定すると、ラベルテキストが対象のフォーム部品に関連付けされラベルクリックでフォームが選択できるようになります)</p>
     <input type="checkbox" name="checkbox1" id="checkbox1"><label for="checkbox1">aaa</label>
     <br>
-    <!--検索テキスト(一部のブラウザでは入力フォームの形状が検索窓風に変化する)-->
+    <p>検索テキスト(一部のブラウザでは入力フォームの形状が検索窓風に変化する)</p>
     <input type="search" name="search" value="">
     <br>
-    <!--メールアドレス(最低限のemail書式を満たしていないと送信できなくなる)-->
+    <p>メールアドレス(最低限のemail書式を満たしていないと送信できなくなる)</p>
     <input type="email" name="email" value="info@example.com">
     <br>
-    <!--URL(最低限のURL書式を満たしていないと送信できなくなる)-->
+    <p>URL(最低限のURL書式を満たしていないと送信できなくなる)</p>
     <input type="url" name="url" value="http://www.example.com">
     <br>
-    <!--電話番号(入力できる値に制限はないが、モバイルOSでは入力時に数字入力モードに変わる)-->
+    <p>電話番号(入力できる値に制限はないが、モバイルOSでは入力時に数字入力モードに変わる)</p>
     <input type="tel" name="tel" value="0120-123-456">
     <br>
-    <!--数値(入力できる値が数値のみとなる。また対応ブラウザでは上下矢印で数値入力できるようになる)-->
+    <p>数値(入力できる値が数値のみとなる。また対応ブラウザでは上下矢印で数値入力できるようになる)</p>
     <input type="number" name="num" value="1">
     <br>
-    <!--日付(入力できる値が日付の書式(YYYY-MM-DD)のみ。対応ブラウザではカレンダーが表示される)-->
+    <p>日付(入力できる値が日付の書式(YYYY-MM-DD)のみ。対応ブラウザではカレンダーが表示される)</p>
     <input type="date" name="date" value="2015-01-01">
     <br>
-    <!--時刻(入力できる値が時刻の書式(00:00)のみ。対応ブラウザでは上下矢印で時刻入力できるようになる)-->
+    <p>時刻(入力できる値が時刻の書式(00:00)のみ。対応ブラウザでは上下矢印で時刻入力できるようになる)</p>
     <input type="time" name="time" value="12:01">
     <br>
-    <!--一定の範囲内の数値(対応ブラウザではスライダー形式のUIで大まかな数値を入力できるようになる)-->
+    <p>一定の範囲内の数値(対応ブラウザではスライダー形式のUIで大まかな数値を入力できるようになる)</p>
     <input type="range" name="range">
     <br>
-    <!--色(対応ブラウザではRGBカラーパネルから色コードを選択できるようになる)-->
+    <p>色(対応ブラウザではRGBカラーパネルから色コードを選択できるようになる)</p>
     <input type="color" name="color">
     <br>
 </body>
