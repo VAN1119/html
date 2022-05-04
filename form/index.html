@@ -17,14 +17,23 @@
     <p>テキストフィールド(パスワード)</p>
     <input type="password" name="password">
     <br>
-    <p>ラジオボタン</p>
+    <p>ラジオボタン(通常)</p>
     <input type="radio" name="radio" value="1" checked>aaa
     <input type="radio" name="radio" value="2">bbb
     <br>
-    <p>チェックボックス</p>
+    <p>チェックボックス(通常)</p>
     <input type="checkbox" name="check1" value="1" checked>aaa
     <input type="checkbox" name="check2" value="2">bbb
     <input type="checkbox" name="check3" value="3">ccc
+    <br>
+    <p>ラジオボタン(クリック可能範囲を文字全体にするためにlabel要素で囲んでいる)</p>
+    <label><input type="radio" name="radio" value="1" checked>aaa</label>
+    <label><input type="radio" name="radio" value="2">bbb</label>
+    <br>
+    <p>チェックボックス(クリック可能範囲を文字全体にするためにlabel要素にfor属性でid属性を紐づけている)</p>
+    <input type="checkbox" name="check1" value="1" id="one" checked><label for="one">aaa</label>
+    <input type="checkbox" name="check2" value="2" id="two"><label for="two">bbb</label>
+    <input type="checkbox" name="check3" value="3" id="three"><label for="three">ccc</label>
     <br>
     <p>ファイルアップロード</p>
     <input  type="file" name="file">
