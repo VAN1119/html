@@ -1,373 +1,400 @@
-bird
-busy
-eat
-fifteen
-food
-music
-night
-pen
-radio
-twenty
-year
-East
-apple
-back
-ball
-bed
-big
-blue
-box
-broke
-calling
-chair
-cheap
-clean
-country
-dance
-dictionary
-dinner
-dog
-drive
-family
-feel
-fish
-floor
-flower
-fourteen
-game
-grass
-hat
-horse
-hour
-husband
-inside
-meat
-money
-moon
-morning
-mouth
-near
-paper
-past
-phone
-rain
-read
-really
-river
-saw
-seven
-short
-show
-sing
-six
-sometimes
-son
-sport
-sugar
-summer
-talk
-test
-tonight
-town
-turning
-well
-window
-woman
-West
-anything
-because
-before
-below
-between
-black
-boat
-both
-bought
-breakfast
-brown
-carry
-catch
-close
-drinking
-enjoy
-feet
-get
-great
-hear
-important
-key
-kind
-language
-late
-learn
-letter
-like
-littele
-lunch
-minutes
-nor
-nte
-open
-plane
-poor
-practice
-provided
-required
-road
-room
-same
-say
-shopping
-take
-teacher
-tell
-testing
-thing
-today
-train 
-us
-wait
-watch
-week
-word
-Western
-above
-accounting
-address
-afternoon
-again
-age
-always
-am
-animal
-answer
-arms
-ask
-autumn
-baby
-bad
-bag
-bath
-become
-behind
-being
-breakfastbetter
-board
-body
-book
-bottom
-boy
-breaking
-brother
-bus
-business
-butter
-buy
-camera
-car
-cat
-centered
-challenged
-change
-check
-child
-children
-city
-class
-classroom
-clock
-coat
-coffee
-cold
-colored
-come
-coming
-cook
-costs
-course
-cow
-cross
-cup
-dark
-date
-day
-desk
-die
-different
-does
-door
-down
-dried
-drink
-dying
-each
-ear
-early
-easy
-egg
-eight
-eighteen
-eleven
-empty
-end
-evening
-every
-example
-eye
-face
-famous
-fat
-father
-find
-fine
-finish
-sinished
-five
-fly
-four
-friend
-fruit
-fun
-girl 
-give 
-given 
-go 
-good 
-green 
-grew 
-group 
-hand 
-happy 
-hard 
-head 
-help 
-here 
-hi 
-holiday 
-home 
-hospital 
-hotel 
-house 
-how 
-hungry 
-interesting 
-job 
-kitchen 
-knife 
-know 
-lasting 
-lay 
-leave 
-leg 
-lesson 
-life 
-light 
-listen 
-long 
-look 
-love 
-loving 
-make 
-man 
-many 
-meal 
-meet 
-men 
-message 
-milk 
-minute 
-mother 
-movie 
-much 
-name 
-need 
-never 
-newspaper 
-nice 
-noise 
-nose 
-now 
-number 
-often 
-old 
-outside 
-page 
-paint 
-pair 
-parent 
-part 
-party 
-pay 
-people 
-person 
-picture 
-place 
-plant 
-player 
-please 
-possible 
-problem 
-quarter 
-question 
-quick 
-reading 
-ready 
-red 
-remember 
-restaurant 
-ride 
-right 
-run 
-sad 
-safe 
-salt 
-school 
-second 
-seem 
-shall 
-shipping 
-shirt 
-shoes 
-sit 
-sixteen 
-slow 
-small 
-snow 
-something 
-sorry 
-speak 
-start 
-station 
-stood 
-stop 
-store 
-street 
-student 
-study 
-subject 
-sun 
-sweet 
-table 
-tall 
-taught 
-tea 
-televisinon 
-ten 
-think 
-thirteen 
-those 
-three 
-together 
-tomorrow 
-too 
-tooth 
-trading 
-travel 
-tree 
-twelve 
-under 
-understand 
-university 
-until 
-use 
-V
+bird 鳥
+busy 忙しい
+eat 食べる
+fifteen 15
+food 食べ物
+music 音楽
+night 夜
+pen ペン
+radio ラジオ
+twenty 20
+year 年
+East 東洋
+apple リンゴ
+back 背中
+ball ボール
+bed ベッド
+big 大きい
+blue 青
+box 箱
+broke 無一文で
+calling 強い衝動
+chair いす
+cheap 安い
+clean きれいにする
+country 国
+dance 踊る
+dictionary 辞書
+dinner 夕食
+dog 犬
+drive 運転する
+family 家族
+feel ～に感じる
+fish 魚
+floor 床
+flower 花
+fourteen 14
+game ゲーム
+grass 芝生
+hat ぼうし
+horse 馬
+hour (1)時間
+husband 夫
+inside 内部
+meat 肉
+money お金
+moon 月
+morning 朝
+mouth 口
+near 近くに
+paper 新聞
+past 過去
+phone 電話
+rain 雨が降る
+read 読む
+really 本当に
+river 川
+saw のこぎり
+seven 7
+short 短い
+show 見せる
+sing 歌う
+six 6
+sometimes ときどき
+son 息子
+sport スポーツ
+sugar 砂糖
+summer 夏
+talk 話す
+test テスト
+tonight 今夜(は)
+town 町
+turning 分岐点
+well 井戸
+window 窓
+woman 女性
+West 西洋
+anything 何も[それも、すべて](…ない)
+because (なぜなら)～だから
+before 以前に
+below 下に
+between (2つのもの)の間に
+black 黒
+boat ボート
+both 両方とも
+bought buyの過去・過去分詞形
+breakfast 朝食
+brown 茶色
+carry ～を運搬する
+catch ～に間に合う
+close 接近した
+difficult 困難な
+dress ～に衣服を着せる
+drinking 飲酒
+enjoy 楽しむ
+feet 足
+get ～を手に入れる
+great 偉大な
+hear が聞こえる
+important 重要な
+key かぎ
+kind 種類
+language 言語
+late 遅れた
+learn (～を)学ぶ
+letter 文字
+like ～のような…
+littele ほとんどない
+lunch 昼食
+minutes 議事録
+nor …もまた～ない
+note ～に注意する
+open 開いた
+plane 飛行機
+poor 貧しい
+practice 実行
+provided もし…ならば
+required 必須の
+road 道路
+room 空間
+same 以前と変わらない状態
+say ねえ
+shopping 買い物
+take 連れていく
+teach 教える
+teacher 先生
+tell ～を話す
+testing 試験
+thing もの
+today きょう
+train 列
+us 私たちを
+wait 待つ
+watch (注意して)見る
+week 週
+word 短い会話
+Western 西洋の
+above ～の上に
+accounting 会計
+address 住所
+afternoon 午後
+again ふたたび
+age 年齢
+always いつも
+am ～である
+animal 動物
+answer 答える
+arms 武器
+ask たずねる
+autumn 秋
+baby 赤ちゃん
+bad 悪い
+bag ふくろ
+bath 入浴
+become ～になる
+behind ～の後ろに
+being 存在
+best もっとも良い
+better より良い
+board 板
+body 肉体
+book ～を予約する
+bottom 底
+boy 少年
+breaking 破壊
+brother 兄弟
+bus バス
+business 仕事
+butter バター
+buy 買う
+camera カメラ
+car 車
+cat ネコ
+centered 中心にある
+challenged 障害のある
+change つり銭
+check 検査する
+child 子ども
+children 子供たち
+city 都市
+class 階級
+classroom 教室
+clock 時計
+coat (衣類の)コート
+coffee コーヒー
+cold 寒い
+colored 色つきの
+come 来る
+coming 来るべき
+cook 料理する
+costs 経費
+course 講座
+cow 牛
+cross 交差
+cup 茶わん
+dark 暗い
+date 日付
+day 日
+desk つくえ
+die 死ぬ
+different 違う
+does doの3人称単数形
+door 戸
+down 下へ
+dried 乾燥した
+drink 飲む
+dying 死にかけの
+each それぞれの
+ear 耳
+early 初期の
+easy 安楽な
+egg 卵
+eight 8
+eighteen 18
+eleven 11
+empty 空の
+end 終わる
+evening 夕方
+every あらゆる
+example 例
+eye 目
+face ～に直面する
+famous 有名な
+fat 太った
+father 父
+find Aとわかる
+fine ～に罰金を科する
+finish 終える
+sinished 仕上がった
+five 5
+fly 飛行機で行く
+four 4
+friend 友だち
+fruit 果実
+fun 楽しいこと
+girl 少女
+give 与える
+given 当然のこと
+go 行く
+good 利益
+green 緑色
+grew growの過去形
+group 団体
+hand 筆跡
+happy 幸福な
+hard 一生懸命に
+head 向かう
+help 助ける
+here ここに
+hi やあ
+holiday 休日
+home 家庭
+hospital 病院
+hotel ホテル
+house 家
+how どうやって
+hungry 空腹の
+interesting 興味深い
+job 職
+kitchen 台所
+knife ナイフ
+know 知っている
+lasting 長続きする
+lay 置く
+leave ～を出発する
+leg 脚
+lesson 教訓
+life 生物
+light ～に火をつける
+listen (注意して)聞く
+long 熱望する
+look ～に見える
+love ～を愛している
+loving 愛情のある
+make (～の)～になる
+man 男
+many たくさんの
+meal 食事
+meet ～を満たす
+men manの複数形
+message メッセージ
+milk ミルク
+minute 分
+mother 母
+movie 映画
+much たくさんの
+name ～の名前を言う[挙げる]
+need (通例～s)必需品
+never 一度も～ない
+newspaper 新聞
+nice すてきな
+noise 騒音
+nose 鼻
+now さて
+number 数字
+often しばしば
+old 年とった
+outside 外で
+page ページ
+paint ～を描く
+pair 1組
+parent 親
+part 部分
+party 党
+pay (お金を)払う
+people 人々
+person 人
+picture イメージ
+place ～を置く
+plant 工場(施設)
+player 競技者
+please ～を喜ばせる
+possible 可能な
+problem 問題
+quarter 4分の1
+question 質問
+quick (速度・動きが)速い
+reading 読書
+ready 準備ができて
+red 赤
+remember ～を思い出す
+restaurant レストラン
+ride 乗る
+right ふさわしい
+run 競走に出る
+sad 悲しい
+safe 安全な
+salt 塩
+school 学派
+second 秒
+seem 思える
+shall (-- I ～ ?で)～しましょうか
+shipping 船積み
+shirt ワイシャツ
+shoes くつ(ふつう複数形)
+sit すわる
+sixteen 16
+slow (時計が)遅れている
+small 小さい
+snow 雪が降る
+something 何か
+sorry 気の毒に思って
+speak 離す
+start 出発する
+station 駅
+stood standの過去・過去分詞形
+stop (バスの)停留所
+store ～を蓄える
+street 通り
+student 学生
+study 書斎
+subject 主題
+sun 太陽
+sweet 甘い
+table 棚上げする
+tall 背の高い
+taught teachの過去形
+tea 茶
+televisinon テレビ(放送)
+ten 10
+think 思う
+thirteen 13
+those あれら
+three 3
+together 一緒に
+tomorrow 明日
+too ～もまた
+tooth (くし・歯車の)歯
+trading 貿易
+travel 通う
+tree 木
+twelve 12
+under ～の下に
+understand (～を)理解する
+university (総合)大学
+until ～するまで
+use 使う
+very まさにその
+visit 訪問する
+wall かべ
+want 必要なもの
+warm ～を暖[温]かくする
+wash 洗う
+water (植物などに)水をやる
+wear ～をすり減らす
+weather 風化させる
+went goの過去形
+where どこに[で]
+white 白
+why なぜ
+wife 妻
+wind 曲がりくねる
+winter 冬
+work 仕事
+world 世界
+write 書く
+writing 書くこと
+yellow 昨日
+yes はい
+yesterday 機能
+young 若い
