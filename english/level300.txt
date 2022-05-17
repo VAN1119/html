@@ -98,302 +98,302 @@ completely 完全に
 computer コンピューター
 concert 演奏会
 connected つながって
-conversation 
-cousin 
-crazy 
-credit 
-crown 
-cultural 
-curtain 
-curved 
-customer 
-dad 
-danger 
-dangerous 
-dare 
-daring 
-decide 
-degree 
-delay 
-demand 
-depend 
-design 
-designing 
-development 
-difficulties 
-direct 
-direction 
-directly 
-discusson 
-district 
-dollar 
-dollars 
-double 
-doubt 
-draw 
-driver 
-drum 
-due 
-duty 
-earn 
-easily 
-education 
-eighteenth 
-eighth 
-elder 
-electricity 
-elephant 
-energy 
-engineer 
-entrance 
-envelope 
-equal 
-equipment 
-established 
-everybody 
-everywhere 
-exactly 
-examination 
-excellent 
-exchange 
-exicited 
-exciting 
-exist 
-expensive 
-factory 
-fair 
-fan 
-favored 
-favorite 
-female 
-fifteenth 
-final 
-finally 
-financial 
-fit 
-floating 
-fork 
-fourteenth 
-friendly 
-funny 
-furniture 
-further 
-garbage 
-generally 
-gift 
-glass 
-glasses 
-goal 
-golf 
-governing 
-grandfather 
-grandmother 
-gray 
-grove 
-guest 
-guy 
-hall 
-happen 
-hate 
-herself 
-hey 
-hurry 
-immediately 
-importance 
-impossible 
-indeed 
-independent 
-informed 
-insect 
-invitation 
-issue 
-judge 
-juice 
-lacking 
-lamp 
-lift 
-limited 
-lion 
-literature 
-loading 
-loud 
-luck 
-lucky 
-mad 
-magic 
-male 
-marrige 
-married 
-match 
-mathematics 
-media 
-merchant 
-meter 
-midnight 
-mirror 
-mix 
-model 
-monkey 
-museum 
-musical 
-neighbor 
-nineteen 
-nineteenth 
-ninety 
-ninth 
-nobody 
-normal 
-northern 
-nurse 
-nursing 
-officer 
-operation 
-opportunity 
-opposite 
-orange 
-ordinary 
-organization 
-original 
-ought 
-ourselves 
-pack 
-painter 
-pardon 
-particularly 
-parther 
-passenger 
-path 
-pattern 
-per 
-percent 
-perfect 
-performance 
-pet 
-photograph 
-pilot 
-pink 
-plastic 
-plate 
-pleasant 
-polite 
-politics 
-pool 
-positive 
-possibly 
-potato 
-poweful 
-pray 
-prefer 
-preferred 
-press 
-pressed 
-prevent 
-previous 
-print 
-prize 
-professional 
-progress 
-project 
-proper 
-property 
-publishing 
-push 
-quality 
-railroad 
-railway 
-range 
-reduced 
-refer 
-regular 
-relation 
-relationship 
-religion 
-removed 
-repair 
-repeat 
-presearch 
-presepect 
-review 
-rice 
-rich 
-role 
-roof 
-scientific 
-search 
-secretary 
-section 
-securities 
-security 
-sentence 
-separate 
-series 
-set 
-settled 
-seventeen 
-seventeenth 
-seventh 
-sex 
-sheep 
-shower 
-singer 
-sink 
-sir 
-site 
-sixteenth 
-smoke 
-somewhere 
-soul 
-soup 
-southern 
-speaker 
-spell 
-staff 
-stage 
-stamp 
-steal 
-stomach 
-storm 
-successful 
-supper 
-tape 
-technology 
-temperature 
-tend 
-tenth 
-terrible 
-text 
-theater 
-theirs 
-therefore 
-thirteenth 
-tie 
-tired 
-title 
-total 
-tour 
-tourist 
-traditional 
-traffic 
-trust 
-twelfth 
-twentieth 
-unable 
-unfortunately 
-unhappy 
-unless 
-upstairs 
-vacation 
-variety 
-vegetable 
-video 
-visitor 
-wake 
-wandering 
-weight 
-whatever 
-wheel 
-wine 
-wooden 
-worker 
-worth 
-yeah 
+conversation 会話
+cousin いとこ
+crazy 正気でない
+credit 信用
+crown 王冠
+cultural 文化的な
+curtain カーテン
+curved 曲がった
+customer 顧客
+dad お父さん
+danger 危険
+dangerous 危険な
+dare あえて(～)する
+daring 大胆な
+decide ～を決意する
+degree 学位
+delay ～を遅らせる
+demand ～を要求する
+depend 頼る
+design ～をデザインする
+designing 設計
+development 発展
+difficulties 困難
+direct ～に道を教える
+direction 方向
+directly 直接に
+discusson 議論
+district 地区
+dollar ドル
+dollars ドル
+double 2倍にする
+doubt 疑い
+draw ～を描く
+driver 運転手
+drum ドラム
+due 期限の来た
+duty 義務
+earn 稼ぐ
+easily 簡単に
+education 教育
+eighteenth 18番目の
+eighth 8番目の
+elder 年上の
+electricity 電気
+elephant ゾウ
+energy エネルギー
+engineer 技師
+entrance 入場
+envelope 封筒
+equal 等しい
+equipment 機器
+established 立証された
+everybody すべての人
+everywhere あらゆるところで[へ]
+exactly 正確に
+examination 試験
+excellent すばらしい
+exchange ～を交換する
+exicited わくわくした
+exciting わくわくさせる
+exist 存在する
+expensive 高価な
+factory 工場
+fair 公平な
+fan ファン
+favored 好意をもたれている
+favorite (一番の)お気に入りの
+female 女性の
+fifteenth 15番目の
+final 最終の
+finally 最終的に
+financial 財政上の
+fit ふさわしい
+floating 浮いている
+fork 分岐する
+fourteenth 14番目の
+friendly 仲がよい
+funny おもしろい
+furniture 家具
+further さらなる
+garbage ごみ
+generally 一般的に
+gift 天賦の才能
+glass コップ
+glasses 眼鏡
+goal 目標
+golf ゴルフ
+governing 統治する
+grandfather 祖父
+grandmother 祖母
+gray 灰色の
+grove 林
+guest 招待された客
+guy 奴
+hall 会館
+happen 起こる
+hate ～を憎む
+herself 彼女自身を
+hey ねえ
+hurry 急ぐ
+immediately 即座に
+importance 重要性
+impossible 不可能な
+indeed 本当に
+independent 独立した
+informed 知識のある
+insect 昆虫
+invitation 招待
+issue ～を発行する
+judge ～を判断する
+juice ジュース
+lacking 欠けている
+lamp 電灯
+lift ～を持ち上げる
+limited 限られた
+lion ライオン
+literature 文字
+loading 荷積み
+loud 大声の
+luck 幸運
+lucky 運のよい
+mad 熱中して
+magic 魔法の
+male 男性の
+marrige 結婚
+married 結婚している
+match 試合
+mathematics 数学
+media (the～)マスメディア
+merchant 貿易商
+meter メートル
+midnight (深夜の)12時
+mirror 鏡
+mix 混ぜる
+model 模型の
+monkey サル
+museum 博物館
+musical 音楽の
+neighbor 近所の人
+nineteen 19
+nineteenth 19番目の
+ninety 90
+ninth 9番目の
+nobody 誰も～ない
+normal 通常の
+northern 北の
+nurse 看護師
+nursing 看護の
+officer 士官
+operation 運転
+opportunity 機会
+opposite 反対の
+orange オレンジ
+ordinary 普通の
+organization 団体
+original 元の
+ought すべきである
+ourselves 私たち自身
+pack 荷造りする
+painter 画家
+pardon 許し
+particularly 特に
+parther 仲間
+passenger 乗客
+path 小道
+pattern パターン
+per ～あたり
+percent パーセント
+perfect 完全な
+performance 公演
+pet ペットの
+photograph 写真
+pilot パイロット
+pink ピンク
+plastic プラスチックの
+plate 板
+pleasant 愉快な
+polite 礼儀正しい
+politics 政治(学)
+pool プール
+positive 自信のある
+possibly もしかしたら
+potato ジャガイモ
+poweful 権力のある
+pray 祈る
+prefer ～を好む
+preferred 望ましい
+press ～を押す
+pressed 差し迫った
+prevent ～を防ぐ
+previous 以前の
+print 印刷
+prize 賞(品)
+professional プロ
+progress 前進
+project 企画
+proper 適切な
+property 特質
+publishing 出版
+push がんばらせる
+quality 質
+railroad 鉄道
+railway 鉄道(英)
+range 範囲
+reduced 減じた
+refer 言及する
+regular 定期的な
+relation 関係
+relationship 関係
+religion 宗教
+removed 離れて
+repair ～を修理する
+repeat ～を繰り返す
+research 研究
+resepect 点
+review 再考
+rice 米
+rich 豊かな
+role 役割
+roof 屋根
+scientific 科学的な
+search ～を捜す
+secretary 秘書
+section 区画
+securities 株式
+security 安全(性)
+sentence ～に判決を宣告する
+separate ～を引き離す
+series 連続
+set 調整する
+settled 人の住んでいる
+seventeen 17
+seventeenth 17番目の
+seventh 7番目の
+sex 性
+sheep ヒツジ
+shower にわか雨
+singer 歌手
+sink 沈む
+sir (男性に対して)お客様
+site 場所
+sixteenth 16番目の
+smoke タバコを吸う
+somewhere どこかに
+soul 魂
+soup スープ
+southern 南の
+speaker 話す人
+spell つづる
+staff 杖
+stage ステージ
+stamp 切手
+steal 盗む
+stomach 胃
+storm 嵐
+successful 成功した
+supper 夕食
+tape テープ
+technology 科学技術
+temperature 温度
+tend ～の傾向がある
+tenth 10番目の
+terrible 猛烈な
+text 本文
+theater 劇場
+theirs 彼らのもの
+therefore それゆえに
+thirteenth 13番目の
+tie ネクタイ
+tired ～にうんざりしている
+title 題名
+total 合計
+tour 見学
+tourist 観光客
+traditional 伝統的な
+traffic 交通
+trust ～を信頼する
+twelfth 12番目の
+twentieth 20番目の
+unable ～できない
+unfortunately 不幸にも
+unhappy 不幸せな
+unless ～できない限り
+upstairs 上の階
+vacation 休暇
+variety 変化
+vegetable 野菜
+video ビデオ
+visitor 訪問者
+wake 航跡
+wandering 放浪する
+weight 重さ
+whatever Aするものは何でも
+wheel 車輪
+wine ワイン
+wooden 木製の
+worker 従業員
+worth ～の価値がある
+yeah はい
