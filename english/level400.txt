@@ -306,57 +306,57 @@ reasonable 程よい
 receipt 領収書
 receipt ～を減少させる
 reduce 言及
-reference 
-region 
-register 
-telated 
-relative 
-religious 
-represent 
-reserve 
-response 
-revolution 
-risk 
-route 
-royal 
-ruler 
-rural 
-sample 
-sauce 
-scale 
-schedule 
-secondary 
-secret 
-selection 
-session 
-severe 
-shelf 
-significant 
-slice 
-slightly 
-smooth 
-snake 
-soap 
-solution 
-somehow 
-source 
-specific 
-spirit 
-spirtual 
-stadium 
-statement 
-steel 
-strength 
-stress 
-structure 
-sufficient 
-suggestion 
-suitable 
-sum 
-sunny 
-supply 
-surface 
-survey 
+reference 言及
+region 地域
+register ～を記憶する
+telated 関係のある
+relative 相対的な
+religious 宗教的な
+represent ～を表す
+reserve ～を取っておく
+response 反応
+revolution 革命
+risk 危険
+route 道筋
+royal 王室の
+ruler 定規
+rural 田舎の
+sample 標本
+sauce ソース
+scale 規模
+schedule スケジュール
+secondary 中等の
+secret 秘密の
+selection 品ぞろえ
+session 会合
+severe 厳しい
+shelf 棚
+significant 重大な
+slice 薄切りにする
+slightly 少し
+smooth なめらかな
+snake ヘビ
+soap 石けん
+solution 解決(法)
+somehow なんとかして
+source 源
+specific 具体的な
+spirit 精神
+spirtual 精神の
+stadium スタジアム
+statement 主張
+steel 鉄
+strength 力
+stress ～を強調する
+structure 建物
+sufficient 十分な
+suggestion 提案
+suitable 適した
+sum 合計
+sunny 晴れた
+supply ～を供給する
+surface 表面
+survey ～を既観する
 task 
 technical 
 technique 
