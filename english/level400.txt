@@ -357,37 +357,37 @@ sunny 晴れた
 supply ～を供給する
 surface 表面
 survey ～を既観する
-task 
-technical 
-technique 
-temple 
-textbook 
-theory 
-throughout 
-thus 
-toast 
-toe 
-towel 
-training 
-transfer 
-translation 
-transportation 
-treament 
-trend 
-trial 
-truth 
-tube 
-typical 
-union 
-unit 
-united 
-unknown 
-unusual 
-upper 
-upset 
-urban 
-usual 
-valuable 
+task 仕事
+technical 専門の
+technique 技術
+temple 寺院
+textbook 教科書
+theory 理論
+throughout ～を通してずっと
+thus したがって
+toast 乾杯する
+toe つま先
+towel タオル
+training 訓練
+transfer ～を移動する
+translation 翻訳
+transportation 輸送
+treament 扱い
+trend 傾向
+trial 試み
+truth 真実
+tube (ガラス・金属・ゴムなどの)管
+typical 典型的な
+union 労働組合
+unit 単位
+united 団結した
+unknown 知られていない
+unusual 異常な
+upper 上の方の
+upset ～の心を乱す
+urban 都会の
+usual いつもの
+valuable 高価な
 van 小型トラック
 vehicle 乗り物
 via ～経由で
