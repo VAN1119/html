@@ -1,161 +1,161 @@
-absolutely 
-acceptable 
-access 
-acid 
-actor 
-addition 
-additional 
-advanced 
-advertisement 
-agency 
-agreement 
-album 
-alcohol 
-alternative 
-altogether 
-analysis 
-annual 
-apart 
-apparent 
-apparently 
-apply 
-appointment 
-approach 
-appropriate 
-argument 
-arrival 
-assistance 
-assistant 
-association 
-assume 
-atmosphere 
-attitude 
-attractive 
-aduience 
-authority 
-awful 
-background 
-badly 
-balloon 
-basis 
-bay 
-beauty 
-behavior 
-benefit 
-besides 
-bit 
-blanket 
-bone 
-branch 
-breast 
-brief 
-brilliant 
-boroad 
-businessman 
-cabinet 
-cancer 
-capacity 
-captain 
-career 
-carpet 
-cell 
-channel 
-characteristic 
-chemical 
-chemistry 
-chief 
-childhood 
-cigarette 
-climate 
-closely 
-coast 
-code 
-comb 
-comic 
-command 
-committee 
-community 
-comparison 
-competition 
-complex 
-composition 
-conclusion 
-conduct 
-conference 
-conflict 
-connection 
-considerable 
-consideration 
-constant 
-construction 
-contain 
-contract 
-contract 
-convenient 
-corporation 
-council 
-county 
-creation 
-crime 
-criminal 
-critical 
-curious 
-current 
-cycle 
-damage 
-deck 
-decrease 
-defense 
-definition 
-democratic 
-dentist 
-description 
-desert 
-despite 
-detail 
-detemined 
-diet 
-difficulty 
-director 
-display 
-division 
-document 
-domestic 
-drama 
-drawing 
-duck 
-eastern 
-economic 
-edition 
-educational 
-effective 
-efficient 
-election 
-electronic 
-element 
-emergency 
-employee 
-employment 
-enormous 
-entire 
-entirely 
-entry 
-essay 
-essential 
-estate 
-ebidence 
-existence 
-exit 
-experiment 
-explanation 
-expression 
-extent 
-external 
-extraordinary 
-extremely 
-factor 
-fairly 
-faith 
+absolutely 絶対的に
+acceptable 許容出来る
+access 接近
+acid 酸性の
+actor 俳優
+addition 追加
+additional 追加の
+advanced 進んだ
+advertisement 広告
+agency 代理店
+agreement 合意
+album アルバム
+alcohol 酒
+alternative 二者択一
+altogether まったく
+analysis 分析
+annual 年一回の
+apart 離れて
+apparent 明白な
+apparently 見たところ
+apply ～を適用する
+appointment 任命
+approach ～に近づく
+appropriate 適切な
+argument 議論、主張
+arrival 到着
+assistance 援助
+assistant 助手
+association 団体
+assume ～を想定する
+atmosphere 雰囲気
+attitude 姿勢
+attractive 魅力的な
+aduience 聴衆
+authority 権威
+awful 恐ろしい
+background 背景の
+badly ひどく
+balloon 気球
+basis 基礎
+bay 湾
+beauty 美しさ
+behavior 態度
+benefit 恩恵
+besides その上
+bit ちょっと
+blanket 覆う
+bone 骨
+branch (一般に)枝
+breast 胸
+brief 短時間の
+brilliant 輝いた
+broad 広い
+businessman ビジネスマン
+cabinet キャビネット
+cancer 癌
+capacity 容量
+captain 主将
+career 経歴
+carpet カーペット
+cell 細胞
+channel チャンネル
+characteristic 特徴的な
+chemical 化学の
+chemistry 化学
+chief 主要な
+childhood 幼少時代
+cigarette たばこ
+climate 気候
+closely 緊密に
+coast 海岸
+code 規則
+comb 髪をとかす
+comic 漫画本
+command ～に命令する
+committee 委員会
+community 地域社会
+comparison 比較
+competition コンクール
+complex 複雑な
+composition 構成
+conclusion 結論
+conduct 行い
+conference 会議
+conflict (～との)闘争
+connection 関係
+considerable かなりの
+consideration 考慮
+constant 絶え間のない
+construction 構造物
+contain ～を中に入れている
+contract 契約
+contract 対象
+convenient (ものなどが)便利な
+corporation 企業
+council 評議会
+county 郡
+creation 創造
+crime 犯罪
+criminal 犯罪者
+critical 批判的な
+curious 好奇心の強い
+current 現在の
+cycle 周期
+damage 損害
+deck 甲板
+decrease 減少する
+defense 防御
+definition 定義
+democratic 民主主義的な
+dentist 歯科医
+description 記述
+desert ～を見捨てる
+despite ～にもかかわらず
+detail 細部
+detemined かたく決意した
+diet (減量のための)食事制限
+difficulty 困難
+director 重役
+display ～を陳列する
+division 分離
+document 文書(類)
+domestic 家庭の
+drama 劇
+drawing 線画
+duck アヒル
+eastern 東の
+economic 経済(上)の
+edition (本などの)版
+educational 教育の
+effective 有効な
+efficient 効率的な
+election 選挙
+electronic 電子の
+element 要素
+emergency 非常事態
+employee 社員
+employment 雇用
+enormous (形・程度などが)巨大な
+entire 全体の
+entirely まったく
+entry 入ること
+essay 小論文
+essential 不可欠の
+estate 財産
+ebidence 証拠
+existence 存在
+exit 出口
+experiment 実験
+explanation 説明
+expression 表情
+extent 範囲
+external 外部の
+extraordinary 並外れた
+extremely きわめて
+factor 要因
+fairly かなり
+faith 信頼
 familiar 
 fee 
 fiction 
@@ -388,14 +388,14 @@ upset
 urban 
 usual 
 valuable 
-van 
-vehicle 
-via 
-violence 
-vision 
-vocabulary 
-volume 
-wage 
-wool 
-youth 
-zone 
+van 小型トラック
+vehicle 乗り物
+via ～経由で
+violence 暴力
+vision 視力
+vocabulary 語彙
+volume 体積
+wage 賃金
+wool 羊毛
+youth 青春時代
+zone 地帯
