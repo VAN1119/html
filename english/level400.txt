@@ -156,156 +156,156 @@ extremely きわめて
 factor 要因
 fairly かなり
 faith 信頼
-familiar 
-fee 
-fiction 
-file 
-flow 
-fog 
-formal 
-frequently 
-friendship 
-fully 
-function 
-gain 
-garage 
-generation 
-geography 
-graduate 
-gram 
-grammar 
-grant 
-grape 
-growth 
-guilty 
-ham 
-hardly 
-headache 
-height 
-highway 
-historical 
-honey 
-identity 
-imaginatin 
-immediate 
-improvement 
-income 
-indicate 
-indoor 
-industrial 
-indluence 
-initial 
-instirute 
-instructions 
-insurance 
-intellectual 
-internal 
-introduction 
-investment 
-incolve 
-jazz 
-joint 
-justice 
-kingdom 
-landscape 
-largely 
-latter 
-league 
-leather 
-legal 
-lemon 
-lend 
-llimit 
-liquid 
-literary 
-location 
-loss 
-lower 
-luggage 
-majority 
-management 
-manner 
-maximum 
-means 
-meanwhile 
-medium 
-membership 
-mental 
-mere 
-merely 
-metal 
-military 
-minimum 
-monthly 
-moral 
-moreover 
-mouse 
-movement 
-murder 
-mushroom 
-negative 
-net 
-nevertheless 
-novel 
-obtain 
-obvious 
-obviously 
-occasion 
-occupation 
-onion 
-onto 
-operate 
-otherwise 
-paragraph 
-parliament 
-partly 
-passport 
-peak 
-pepper 
-perfectly 
-permanent 
-philosophy 
-photographer 
-physical 
-pillow 
-pipe 
-plain 
-pleasure 
-plus 
-poetry 
-policy 
-pop 
-portion 
-possibility 
-potential 
-prayer 
-preparation 
-presence 
-pressure 
-priest 
-primary 
-prince 
-principal 
-procedure 
-production 
-profession 
-professor 
-promote 
-prove 
-pure 
-purple 
-purse 
-quantity 
-rabbit 
-rarely 
-rat 
-raw 
-reaction 
-reader 
-reasonable 
-receipt 
-receipt 
-reduce 
+familiar よく知られている
+fee 謝礼
+fiction 小説
+file ファイルにとじる
+flow 流れる
+fog 霧
+formal 公式の
+frequently 頻繁に
+friendship 友情
+fully 完全に
+function 機能
+gain ～を得る
+garage 車庫
+generation 世代
+geography 地理学
+graduate 卒業する
+gram グラム
+grammar 文法
+grant ～を認める
+grape ブドウ
+growth 成長
+guilty 有罪の
+ham ハム
+hardly ほとんど～ない
+headache 頭痛
+height 高さ
+highway 幹線道路
+historical 歴史上の
+honey あなた
+identity (自己の)存在証明
+imaginatin 創造力
+immediate 即座の
+improvement 改良
+income 収入
+indicate ～を指し示す
+indoor 屋内の
+industrial 産業の
+indluence 影響
+initial 最初の
+instirute 協会
+instructions マニュアル
+insurance 保険
+intellectual 知的な、知性[知力]の
+internal 内部の
+introduction 紹介
+investment 投資
+incolve ～を巻き込む
+jazz ジャズ
+joint 関節
+justice 正義
+kingdom 王国
+landscape (陸地の)景色
+largely 主として
+latter 後の方の
+league リーグ
+leather 革
+legal 合法的な
+lemon レモン
+lend (物・金・力など)を貸す
+llimit ～を制限する
+liquid 液体
+literary 文字の
+location 場所
+loss 損害
+lower ～を低くする
+luggage 荷物
+majority 大多数
+management 経営陣
+manner 態度
+maximum 最大限
+means 手段
+meanwhile その間に
+medium 中間
+membership 会員の資格
+mental 心の
+mere 単なる
+merely 単に
+metal 金属
+military 軍(隊)の
+minimum 最小限度
+monthly 毎月の
+moral 道徳上の
+moreover さらに
+mouse ネズミ
+movement 動き
+murder ～を殺害する
+mushroom きのこ
+negative 否定的な
+net 正味の
+nevertheless それにもかかわらず
+novel 目新しい
+obtain ～を得る
+obvious 明らかな
+obviously 明らかに
+occasion 場合
+occupation 職業
+onion タマネギ
+onto ～の上に
+operate 操作する
+otherwise さもなければ
+paragraph 段落
+parliament 議会
+partly 部分的に
+passport 旅券
+peak 頂点
+pepper トウガラシ
+perfectly 完全に
+permanent (半)永久的な
+philosophy 哲学
+photographer 写真家
+physical 身体の
+pillow 枕
+pipe パイプ
+plain はっきりした
+pleasure 喜び
+plus ～を足した
+poetry 詩
+policy 政策
+pop 大衆的な
+portion 一部
+possibility 可能性
+potential 可能な
+prayer 祈り
+preparation 準備
+presence 存在
+pressure (精神的)重圧
+priest 司祭
+primary 第一の
+prince 王子
+principal 主要な
+procedure 手続き
+production 生産
+profession 専門職
+professor 教授
+promote ～を促進する
+prove ～を証明する
+pure 純粋な
+purple 紫色
+purse 財布
+quantity 量
+rabbit ウサギ
+rarely めったに～ない
+rat ネズミ
+raw 生の
+reaction 反応
+reader 読者
+reasonable 程よい
+receipt 領収書
+receipt ～を減少させる
+reduce 言及
 reference 
 region 
 register 
