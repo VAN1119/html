@@ -1,206 +1,104 @@
-absolute 
-abstract 
-academic 
-acceptance 
-accurate 
-achievement 
-acquire 
-adequate 
-administration 
-admission 
-adopt 
-advance 
-advertising 
-agriculture 
-aid 
-alarm 
-angle 
-anxiety 
-appeal 
-approval 
-approximately 
-arise 
-arrest 
-artificial 
-artistic 
-aspect 
-assembly 
-assignment 
-assist 
-assumption 
-atomic 
-attorney 
-automatic 
-backward 
-baker 
-billion 
-blank 
-bond 
-boundary 
-briefly 
-budget 
-bull 
-burden 
-campaign 
-canal 
-capable 
-capture 
-carbon 
-cast 
-ceremony 
-charity 
-chart 
-circuit 
-civil 
-classic 
-classical 
-client 
-clothing 
-coach 
-column 
-combination 
-comfort 
-commerce 
-communicarte 
-complain 
-complicated 
-concentrate 
-concentration 
-concept 
-conception 
-concrete 
-confidence 
-confident 
-confused 
-confused 
-conscience 
-conscious 
-consciousness 
-consent 
-consequence 
-consequently 
-constantly 
-constitute 
-constitution 
-construct 
-consumer 
-contemporary 
-contest 
-context 
-continuous 
-contrary 
-contribute 
-contribution 
-convention 
-conventional 
-conviction 
-cooperation 
-copper 
-core 
-corresponding 
-counter 
-creative 
-crisis 
-criticism 
-damage 
-deck 
-decrease 
-defense 
-definition 
-democratic 
-dentist 
-description 
-desert 
-despite 
-detail 
-determined 
-diet 
-difficulty 
-director 
-display 
-division 
-document 
-domestic 
-drama 
-drawing 
-duck 
-eastern 
-economic 
-edition 
-educational 
-effective 
-efficient 
-election 
-electronic 
-element 
-emergency 
-employee 
-employment 
-enormous 
-entire 
-entirely 
-entry 
-essay 
-essential 
-estate 
-evidence 
-existence 
-exit 
-experiment 
-explanation 
-expression 
-extent 
-external 
-extraordinary 
-extremely 
-factor 
-fairly 
-faith 
-familiar 
-fee 
-fiction 
-file 
-flow 
-fog 
-formal 
-frequently 
-friendship 
-fully 
-function 
-gain 
-garage 
-generation 
-geography 
-graduate 
-gram 
-grammar 
-grant 
-grape 
-growth 
-guilty 
-ham 
-hardly 
-headache 
-height 
-highway 
-historical 
-honey 
-identity 
-imagination 
-immediate 
-improvement 
-income 
-indicate 
-indoor 
-industrial 
-influence 
-initial 
-insitute 
-instructins 
-insurance 
-intellectual 
-internal 
-introduction 
-investment 
-involve 
-jazz
+absolute 完全な
+abstract 抽象的な
+academic 学問の
+acceptance 承認
+accurate 正確な
+achievement 成果
+acquire ～を獲得する
+adequate 十分な
+administration 管理
+admission 加盟
+adopt (方法など)を採用する
+advance ～を進める
+advertising 広告
+agriculture 農業
+aid 助け
+alarm ～をはっとさせる
+angle 角度
+anxiety 心配
+appeal 訴える
+approval 賛成
+approximately ほぼ
+arise 生じる
+arrest ～を逮捕する
+artificial 人工の
+artistic 芸術的な
+aspect 側面
+assembly 集会
+assignment 任務
+assist ～を助ける
+assumption 証拠のない仮定
+atomic 原子の
+attorney 弁護士
+automatic 自動の
+backward 後方へ
+baker パン屋
+billion 10億
+blank 白紙の
+bond 接着剤
+boundary 境界
+briefly 簡単に
+budget 予算
+bull 雄牛
+burden 重荷
+campaign 宣伝活動
+canal 運河
+capable (～をすることが)できる
+capture ～を捕らえる
+carbon 炭素
+cast ～を投げる
+ceremony 儀式
+charity 慈善(行為)
+chart 図表
+circuit 回路
+civil 市民の
+classic 古典の
+classical 古典の
+client 依頼人
+clothing 衣類
+coach (鉄道以前の)大型馬車
+column 列
+combination 組合せ
+comfort 快適さ
+commerce 商業
+communicarte (意見。情報など)を伝える
+complain 不平
+complicated 複雑な
+concentrate ～を集中する
+concentration 集中
+concept 概念
+conception 想像(力)
+concrete 具体的な
+confidence 信頼
+confident 自信がある
+confused 混乱した
+conscience 良心
+conscious 意識している
+consciousness 意識
+consent 同意する
+consequence 結果
+consequently その結果(として)
+constantly 絶えず
+constitute ～を構成する
+constitution 憲法
+construct ～を組み立てる
+consumer 消費者
+contemporary 現代の
+contest 得ようと争う
+context (文の)前後関係
+continuous 継続した
+contrary 反対の
+contribute 貢献する
+contribution 負担金
+convention 慣行
+conventional 従来の
+conviction 確信
+cooperation 協力
+copper 銅
+core 中心
+corresponding 対応する
+counter に反対する
+creative 創造的な
+crisis 危機
+criticism 評論
+damage 暗さ
