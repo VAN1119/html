@@ -9,7 +9,7 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="" rel="shortcuticon"><!--ファビコンの設定-->
 </head>
-<body>
+<body id="contact">
     <header>
         <div class="logo">
             <a href="index.html"><img src="images/logo.png" alt="logo"></a><!--ロゴのサイズ245*45px-->
@@ -24,6 +24,65 @@
     </header>
     <div id="wrap">
         <div class="content">
+            <div class="main-center">
+                <h1>Contact</h1>
+                <p>アクセス方法、お問い合わせページです。お気軽にお問い合わせください。</p>
+                <section class="access clearfix">
+                    <table>
+                        <tr>
+                            <th>所在住所</th>
+                            <td>〒430-8652<br>静岡県浜松市中区元城町１０３−２</td>
+                        </tr>
+                        <tr>
+                            <th>電話番号</th>
+                            <td>012-345-6789</td>
+                        </tr>
+                        <tr>
+                            <th>電車でのアクセス</th>
+                            <td>東海道本線「浜松」駅より徒歩16分</td>
+                        </tr>
+                        <tr>
+                            <th>お車でのアクセス</th>
+                            <td>浜松I.Cより国道152線経由で26分</td>
+                        </tr>
+                    </table>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.7744151056445!2d137.72188981798385!3d34.71086933677282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601ade6188b240fd%3A0x5f2d01b950e9a5f7!2z5rWc5p2-5biC5b255omA!5e0!3m2!1sja!2sjp!4v1654048641448!5m2!1sja!2sjp" width="460" height="220" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </section>
+                <section>
+                    <h2 class="icon">Contact form</h2>
+                    <div class="form">
+                        <form>
+                            <dl>
+                                <dt><span class="required">お名前</span></dt>
+                                <dd><input type="text" name="name" class="name" required></dd>
+                                <dt><span class="required">メールアドレス</span></dt>
+                                <dd><input type="email" name="email" class="email" required></dd>
+                                <dt>お電話番号</dt>
+                                <dd><input type="tel" name="tel" class="tel"></dd>
+                                <dt>お問い合わせ種別</dt>
+                                <dd>
+                                    <select name="type" class="type">
+                                        <option value="銀杏並木のお掃除のご依頼">銀杏並木のお掃除のご依頼</option>
+                                        <option value="掃除で拾った銀杏の消費方法の提案">掃除で拾った銀杏の消費方法の提案</option>
+                                        <option value="その他のお問い合わせ">その他のお問い合わせ</option>
+                                    </select>
+                                </dd>
+                                <dt>ご希望のご連絡方法</dt>
+                                <dd>
+                                    <label><input type="radio" name="contact" value="Eメール">Eメール</label>
+                                    <label><input type="radio" name="contact" value="お電話">お電話</label>
+                                </dd>
+                                <dt>メッセージ</dt>
+                                <dd><textarea name="message" class="message"></textarea></dd>
+                            </dl>
+                            <button type="submit" class="btn">送信</button>
+                        </form>
+                        <div class="attention">
+                            <p>※「<span class="required"></span>」の付いてる項目は必須項目です。<br>※メッセージ送信後、48時間以内に担当者よりご連絡いたします。</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
         </div>
     </div>
     <footer>
