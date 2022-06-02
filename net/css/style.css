@@ -80,8 +80,8 @@ footer small {
 
 #index h1 {
     font-size: 100px;
-    line-height: 1;
     color: #fff;
+    line-height: 1;
     font-family: 'Bitter', serif;
     margin-bottom: 50px;
     border: none;
@@ -98,7 +98,7 @@ footer small {
 }
 
 #index p {
-    font-size: 16px;
+    font-size: 30px;
     color: #fff;
 }
 
@@ -204,13 +204,17 @@ section {
     border: 1px solid #ccc;
 }
 
+#about .career td span {
+    font-weight: bold;
+}
+
 table {
     border-spacing: 0;
     border-collapse: collapse;
 }
 
-#portfolio {
-    background-image: url(../images/bg-portfolio.jpg);
+#travel {
+    background-image: url(../images/bg-travel.jpg);
     background-repeat: no-repeat;
     background-position: center top; /* 左右　上下の指定 */
     background-attachment: fixed;
@@ -247,21 +251,21 @@ a img:hover {
     opacity: 0.8;
 }
 
-#photograph {
-    background-image: url(../images/bg-photograph.jpg);
+#world {
+    background-image: url(../images/bg-world.jpg);
     background-repeat: no-repeat;
     background-position: center top; /* 左右　上下の指定 */
     background-attachment: fixed;
     background-size: 100% auto;
 }
 
-#photograph .photograph-list li{
+#world .world-list li{
     float: left;
     list-style: none;
     margin: 0 15px 15px 0;
 }
 
-#photograph .photograph-list li:nth-child(3n) {
+#world .world-list li:nth-child(3n) {
     margin-right: 0;
 }
 
@@ -426,8 +430,8 @@ a img:hover {
         max-width: 100%;
     }
 
-    #portfplio {
-        background-image: url(../images/bg-portfolio.jpg);
+    #travel {
+        background-image: url(../images/bg-travel.jpg);
     }
 
     .sidebar {
