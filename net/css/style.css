@@ -269,6 +269,15 @@ a img:hover {
     margin-right: 0;
 }
 
+#world .world-list li img {
+    transition-duration: 0.5s; /*変化の時間*/
+}
+
+#world .world-list li img:hover {
+    transform: scale(2.0,2.0); /*画像の拡大*/
+    cursor: pointer; /*カーソルをポインターにする*/
+}
+
 #video {
     background-image: url(../images/bg-video.jpg);
     background-repeat: no-repeat;
