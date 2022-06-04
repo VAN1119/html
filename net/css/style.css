@@ -31,6 +31,12 @@ header {
 .logo {
     float: left;
     margin-top: 50px;
+    font-size: 35px;
+    font-family: 'Bitter', serif;
+}
+
+.logo a {
+    color: #fff;
 }
 
 .global-nav {
