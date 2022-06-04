@@ -1,4 +1,8 @@
 @charset "utf-8";
+/* TOPへ戻る際スムーズにする(ページ移動もヌルヌルした感じになる) *
+html {
+    scroll-behavior: smooth;
+}*/
 
 body {
     background-color: #ccc;
@@ -386,6 +390,26 @@ a img:hover {
 
 #contact .form .attention {
     margin: 20px 0 0 165px;
+}
+
+.page_top {
+    position: fixed;
+    bottom: 30px;
+    right: 100px;
+    padding: 2px;
+    text-align: center;
+    transition: 0.3s0;
+}
+
+.page_top span {
+    color: #000;
+    font-size: 50px;
+}
+  
+/* マウスオーバー時 */
+.page_top span:hover {
+    background: #c0c0c0;
+    color: #fff;
 }
 
 @media screen and (max-width: 600px) {
