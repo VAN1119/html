@@ -261,8 +261,24 @@ a img:hover {
     opacity: 0.8;
 }
 
-#world {
-    background-image: url(../images/bg-world.jpg);
+#world.north {
+    background-image: url(../images/bg-north.jpg);
+    background-repeat: no-repeat;
+    background-position: center top; /* 左右　上下の指定 */
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+#world.nsouth {
+    background-image: url(../images/bg-Nsouth.jpg);
+    background-repeat: no-repeat;
+    background-position: center top; /* 左右　上下の指定 */
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+#world.ssouth {
+    background-image: url(../images/bg-Ssouth.jpg);
     background-repeat: no-repeat;
     background-position: center top; /* 左右　上下の指定 */
     background-attachment: fixed;
@@ -278,11 +294,11 @@ a img:hover {
 #world .world-list li:nth-child(3n) {
     margin-right: 0;
 }
-
-#world .world-list li img {
-    transition-duration: 0.5s; /*変化の時間*/
-}
 /*
+#world .world-list li img {
+    transition-duration: 0.5s; /*変化の時間*
+}
+
 #world .world-list li img:hover {
     transform: scale(2.0,2.0); /*画像の拡大*
     cursor: pointer; /*カーソルをポインターにする*
