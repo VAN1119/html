@@ -2,7 +2,8 @@
 /* TOPへ戻る際スムーズにする(ページ移動もヌルヌルした感じになる) *
 html {
     scroll-behavior: smooth;
-}*/
+}
+*/
 
 body {
     background-color: #ccc;
