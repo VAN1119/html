@@ -421,6 +421,7 @@ a img:hover {
 .page_top span {
     color: #000;
     font-size: 50px;
+    border-radius: 50%;
 }
   
 /* マウスオーバー時 */
