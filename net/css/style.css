@@ -28,14 +28,20 @@ a:hover {
 }
 
 header {
-    width: 960px;
+    width: 960px; /* fixedの場合は100% */
     height: 100px;
     margin: 0 auto;
+    /* コメントアウトの部分は追随型
+    border: 2px solid red;
+    position: fixed;
+    inset: 0;
+    margin: 0 auto; */
 }
 
 .logo {
     float: left;
     margin-top: 50px;
+    /*margin-left: 100px; /* headerをfixed時の調整 */
     font-size: 35px;
     font-family: 'Bitter', serif;
 }
@@ -47,6 +53,7 @@ header {
 .global-nav {
     float: right;
     margin-top: 60px;
+    /*margin-right: 100px; /* headerをfixed時の調整 */
 }
 
 .global-nav li {
@@ -419,6 +426,7 @@ a img:hover {
 }
 
 .page_top span {
+    background-color: #fff;
     color: #000;
     font-size: 50px;
     border-radius: 50%;
