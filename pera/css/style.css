@@ -99,16 +99,39 @@ About
     border-radius: 50%;
     margin-right: 30px;
 }
-
 /*----------------------------------------------
 Fishing
 ----------------------------------------------*/
+#fishing ul {
+    display: flex;
+    justify-content: space-between;
+}
+#fishing li {
+    width: 32%;
+}
+
 /*----------------------------------------------
 Training
 ----------------------------------------------*/
+#training content {
+    display: flex;
+    justify-content: space-between;
+}
 /*----------------------------------------------
 Gallery
 ----------------------------------------------*/
+#gallery .picture {
+    display: inline-block;
+    height: 30px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+#gallery li {
+    display: inline-block;
+    height: 0%;
+    width: 32%;
+}
+
 /*----------------------------------------------
 Footer
 ----------------------------------------------*/
