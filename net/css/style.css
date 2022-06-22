@@ -28,18 +28,19 @@ a:hover {
 }
 
 header {
+    display: flex;
+    justify-content: space-between;
     width: 960px; /* fixedの場合は100% */
     height: 100px;
     margin: 0 auto;
-    /* コメントアウトの部分は追随型
+    /* コメントアウトの部分は追随型 *
     border: 2px solid red;
     position: fixed;
-    inset: 0;
-    margin: 0 auto; */
+    inset: 0; */
 }
 
 .logo {
-    float: left;
+    display: flex;
     margin-top: 50px;
     /*margin-left: 100px; /* headerをfixed時の調整 */
     font-size: 35px;
@@ -51,13 +52,13 @@ header {
 }
 
 .global-nav {
-    float: right;
+    display: flex;
+    justify-content: flex-end;
     margin-top: 60px;
     /*margin-right: 100px; /* headerをfixed時の調整 */
 }
 
 .global-nav li {
-    float: left;
     margin: 0 20px;
     font-size: 20px;
     list-style: none;
@@ -74,7 +75,6 @@ header {
 }
 
 #wrap {
-    clear: both;
     background-color: #fff;
     margin-top: 220px;
     padding: 35px 0;
@@ -422,14 +422,13 @@ a img:hover {
     right: 100px;
     padding: 2px;
     text-align: center;
-    transition: 0.3s0;
 }
 
 .page_top span {
     background-color: #fff;
     color: #000;
     font-size: 50px;
-    border-radius: 50%;
+    border-radius: 50%;    
 }
   
 /* マウスオーバー時 */
