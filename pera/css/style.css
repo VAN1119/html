@@ -61,6 +61,7 @@ li {
     align-items: center;
     margin: 0 auto;
     background-color: #fff;
+    opacity: 0.8;
 }
 #header h1 a {
     font-size: 50px;
@@ -113,20 +114,20 @@ About
     margin-right: 30px;
 }
 /*----------------------------------------------
-Fishing
+Traveling
 ----------------------------------------------*/
-#fishing ul {
+#traveling ul {
     display: flex;
     justify-content: space-between;
 }
-#fishing li {
+#traveling li {
     width: 32%;
 }
 
 /*----------------------------------------------
-Training
+Moon
 ----------------------------------------------*/
-#training content {
+#moon content {
     display: flex;
     justify-content: space-between;
 }
@@ -136,6 +137,7 @@ Gallery
 #gallery .picture {
     display: inline-block;
     height: 30px;
+    width: 300px;
     margin-right: 15px;
     margin-bottom: 15px;
 }
@@ -174,12 +176,12 @@ SP
         margin-right: 0;
     }
     /*----------------------------------------------
-    Fishings
+    travelings
     ----------------------------------------------*/
-    #fishing ul {
+    #traveling ul {
         flex-direction: column;
     }
-    #fishing li {
+    #traveling li {
         width: 100%;
         margin-bottom: 30px;
     }
