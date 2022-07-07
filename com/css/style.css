@@ -58,11 +58,11 @@ footer
     margin-top: 0;
 }
 
-#footer .nav li ul {
+#footer .nav li ul{
     margin: 0 0 0 2em;
 }
 
-#footer .nav li li {
+#footer .nav li li{
     position: relative;
 }
 
