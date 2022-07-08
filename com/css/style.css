@@ -46,14 +46,12 @@ footer
     line-height: 2;
 }
 
-/* 効いていないかも */
 #footer .nav li {
     display: block;
     font-size: 12px;
     line-height: 2;
 }
 
-/* 効いていないかも */
 #footer .nav li:first-child {
     margin-top: 0;
 }
