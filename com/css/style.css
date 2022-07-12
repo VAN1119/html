@@ -91,3 +91,40 @@ footer .logo img {
     line-height: 2;
     color: #ccc;
 }
+
+/*-------------------------
+footer(SP)
+-------------------------*/
+@media screen and (max-width: 640px) {
+    #footer .cont {
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: space-between;
+    }
+    #footer .cont-item {
+        display: block;
+        width: 48%;
+    }
+    #footer .cont-item:nth-child(n+3) {
+        margin-top: 30px;
+    }
+    #footer .nav ul {
+        margin: 0;
+        font-size: 10px;
+    }
+    #footer .nav ul + .ttl {
+        margin-top: 10px;
+    }
+    #footer .nav li {
+        font-size: 10px;
+    }
+    #footer .company {
+        margin-top: 30px;
+    }
+    #footer .address {
+        margin: 10px 0 0;
+        font-size: 10px;
+    }
+}
