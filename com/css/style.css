@@ -4,12 +4,15 @@ header
 #index .logo {
     font-size: 20px;
     font-weight: bold;
+    margin: 10px 30px;
 }
 
 #index header {
     position: relative;
     background-color: #def7ff;
     padding: 1rem 0;
+    display: flex;
+    justify-content: space-between;
 }
 
 #index nav a {
